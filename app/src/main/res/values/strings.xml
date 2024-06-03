@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Time de Jogadores</string>
+    <string name="home">App de Jogos</string>
+    <string name="inicio">Home</string>
+    <string name="nome">Nome</string>
+    <string name="data_nasc">Data de Nascimento</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="codigo">Código</string>
+    <string name="jogador">Jogador</string>
+    <string name="time">Time</string>
+    <string name="cidade">Cidade</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnInsert">Inserir</string>
+    <string name="btnUpdate">Atualizar</string>
+    <string name="btnDelete">Excluir</string>
+    <string name="btnListAll">Listar</string>
+</resources>
